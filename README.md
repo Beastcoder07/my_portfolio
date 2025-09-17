@@ -5,7 +5,7 @@ This is my first professional portfolio
 
 ## TRAILER
 
-![IMAGE]("assets\img\map.png")
+![IMAGE](assets\img\map.png)
 
 ## LANGUAGES USED
 
