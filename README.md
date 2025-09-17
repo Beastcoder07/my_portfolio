@@ -5,7 +5,7 @@ This is my first professional portfolio
 
 ## TRAILER
 
-![IMAGE](assets\img\map.png)
+![IMAGE](https://github.com/Beastcoder07/my_portfolio/blob/43e7ce5763bf455206629df1d004818e4a50473d/assets/img/map.png),"TRAILER 📽️")
 
 ## LANGUAGES USED
 
