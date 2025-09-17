@@ -11,4 +11,5 @@ This is my first professional portfolio
 
      HTML & CSS
 
-## [PORTFOLIO LINK] (https://beastcoder07.github.io/my_portfolio/)
+## PORTFOLIO LINK
+https://beastcoder07.github.io/my_portfolio
