@@ -1,7 +1,7 @@
 # MY_PORTFOLIO
 
 This is my simple good looking portfolio designed in Canva .
-This is my first professional portfolio
+This is my first  portfolio
 
 ## TRAILER 🎬
 
